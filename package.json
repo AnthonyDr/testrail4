@@ -1,0 +1,7 @@
+{
+  "name": "testrail4",
+  "private": "true",
+  "dependencies": {
+    "i18n-js": "3.8.0"
+  }
+}
